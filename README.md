@@ -10,3 +10,8 @@ I choose to name these scrapers Picnic Day Scrapers because I made them right be
 
 Thankyou,
 hamzaskhan
+
+Contents
+-WBSLSCv4.py: It scrapes all the internal links of the website you enter and creates a tree sturcture of all links in order to understand the relashionship and flow. It then creates a list of all unique links 
+ which is essentially a list of all links in the website in list form.
+-brokenScraperv2.96.5.py: It takes a .csv or .txt as input. Each line in either format should contain one link. Each link is checked for error. Check line number 15 for extending it's functionality.
